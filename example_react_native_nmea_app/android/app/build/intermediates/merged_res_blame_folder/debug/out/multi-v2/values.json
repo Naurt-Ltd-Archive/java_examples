@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/work/Documents/app/NmeaExample/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/work/Documents/git-public/java_examples/example_react_native_nmea_app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/work/.gradle/caches/transforms-3/2f5725507f1929c6ddf8255f0bef77bd/transformed/jetified-flipper-0.99.0/res/values/values.xml",
@@ -35,6 +35,25 @@
                         "startOffsets": "17564",
                         "endColumns": "49",
                         "endOffsets": "17609"
+                    }
+                },
+                {
+                    "source": "/Users/work/Documents/git-public/java_examples/example_react_native_nmea_app/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "180"
+                    },
+                    "to": {
+                        "startLines": "380",
+                        "startColumns": "4",
+                        "startOffsets": "26571",
+                        "endLines": "382",
+                        "endColumns": "12",
+                        "endOffsets": "26697"
                     }
                 },
                 {
@@ -92,23 +111,6 @@
                         "endLines": "3029,3449",
                         "endColumns": "22,22",
                         "endOffsets": "191833,211937"
-                    }
-                },
-                {
-                    "source": "/Users/work/Documents/app/NmeaExample/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
-                    "from": {
-                        "startLines": "6,8",
-                        "startColumns": "4,4",
-                        "startOffsets": "156,262",
-                        "endColumns": "63,68",
-                        "endOffsets": "215,326"
-                    },
-                    "to": {
-                        "startLines": "279,280",
-                        "startColumns": "4,4",
-                        "startOffsets": "17921,17985",
-                        "endColumns": "63,68",
-                        "endOffsets": "17980,18049"
                     }
                 },
                 {
@@ -205,6 +207,23 @@
                     }
                 },
                 {
+                    "source": "/Users/work/Documents/git-public/java_examples/example_react_native_nmea_app/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "48",
+                        "endOffsets": "60"
+                    },
+                    "to": {
+                        "startLines": "310",
+                        "startColumns": "4",
+                        "startOffsets": "20063",
+                        "endColumns": "48",
+                        "endOffsets": "20107"
+                    }
+                },
+                {
                     "source": "/Users/work/.gradle/caches/transforms-3/ecf84c0383f3135c8315e19df5cad97b/transformed/jetified-savedstate-1.1.0/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -222,39 +241,20 @@
                     }
                 },
                 {
-                    "source": "/Users/work/Documents/app/NmeaExample/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/work/Documents/git-public/java_examples/example_react_native_nmea_app/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
                     "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "180"
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "156,262",
+                        "endColumns": "63,68",
+                        "endOffsets": "215,326"
                     },
                     "to": {
-                        "startLines": "380",
-                        "startColumns": "4",
-                        "startOffsets": "26571",
-                        "endLines": "382",
-                        "endColumns": "12",
-                        "endOffsets": "26697"
-                    }
-                },
-                {
-                    "source": "/Users/work/Documents/app/NmeaExample/android/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "48",
-                        "endOffsets": "60"
-                    },
-                    "to": {
-                        "startLines": "310",
-                        "startColumns": "4",
-                        "startOffsets": "20063",
-                        "endColumns": "48",
-                        "endOffsets": "20107"
+                        "startLines": "279,280",
+                        "startColumns": "4,4",
+                        "startOffsets": "17921,17985",
+                        "endColumns": "63,68",
+                        "endOffsets": "17980,18049"
                     }
                 }
             ]

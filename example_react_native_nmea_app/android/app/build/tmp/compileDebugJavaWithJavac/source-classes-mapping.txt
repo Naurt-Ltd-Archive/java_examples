@@ -1,23 +1,23 @@
 com/nmeaexample/MainActivity.java
  com.nmeaexample.MainActivity
+com/nmeaexample/NmeaMessageListener.java
+ com.nmeaexample.NmeaMessageListener
 com/nmeaexample/ReactNativeFlipper.java
  com.nmeaexample.ReactNativeFlipper
  com.nmeaexample.ReactNativeFlipper$1
  com.nmeaexample.ReactNativeFlipper$2
  com.nmeaexample.ReactNativeFlipper$2$1
-com/nmeaexample/NmeaLocationListener.java
- com.nmeaexample.NmeaLocationListener
-com/facebook/react/PackageList.java
- com.facebook.react.PackageList
-com/nmeaexample/BuildConfig.java
- com.nmeaexample.BuildConfig
-com/nmeaexample/NmeaMessageListener.java
- com.nmeaexample.NmeaMessageListener
 com/nmeaexample/NmeaPackage.java
  com.nmeaexample.NmeaPackage
+com/nmeaexample/NmeaLocationListener.java
+ com.nmeaexample.NmeaLocationListener
 com/nmeaexample/NmeaModule.java
  com.nmeaexample.NmeaModule
  com.nmeaexample.NmeaModule$1
 com/nmeaexample/MainApplication.java
  com.nmeaexample.MainApplication
  com.nmeaexample.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/nmeaexample/BuildConfig.java
+ com.nmeaexample.BuildConfig
